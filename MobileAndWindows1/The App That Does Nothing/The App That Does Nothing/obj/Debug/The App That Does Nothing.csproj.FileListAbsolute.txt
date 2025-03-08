@@ -1,0 +1,11 @@
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\bin\Debug\The App That Does Nothing.exe.config
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\bin\Debug\The App That Does Nothing.exe
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\bin\Debug\The App That Does Nothing.pdb
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.csproj.AssemblyReference.cache
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.csproj.SuggestedBindingRedirects.cache
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The_App_That_Does_Nothing.AppDoesNothing.resources
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The_App_That_Does_Nothing.Properties.Resources.resources
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.csproj.GenerateResource.cache
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.csproj.CoreCompileInputs.cache
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.exe
+D:\A290_NET\The App That Does Nothing\The App That Does Nothing\obj\Debug\The App That Does Nothing.pdb

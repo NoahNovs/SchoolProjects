@@ -1,0 +1,11 @@
+D:\A290_NET\Collections\Collections\bin\Debug\Collections.exe.config
+D:\A290_NET\Collections\Collections\bin\Debug\Collections.exe
+D:\A290_NET\Collections\Collections\bin\Debug\Collections.pdb
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.FrmCollections.resources
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.Properties.Resources.resources
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.csproj.GenerateResource.cache
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.exe
+D:\A290_NET\Collections\Collections\obj\Debug\Collections.pdb

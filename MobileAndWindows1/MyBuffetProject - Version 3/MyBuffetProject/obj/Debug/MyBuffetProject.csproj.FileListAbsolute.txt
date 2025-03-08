@@ -1,0 +1,23 @@
+D:\A290_NET\MyBuffetProject\MyBuffetProject\bin\Debug\MyBuffetProject.exe.config
+D:\A290_NET\MyBuffetProject\MyBuffetProject\bin\Debug\MyBuffetProject.exe
+D:\A290_NET\MyBuffetProject\MyBuffetProject\bin\Debug\MyBuffetProject.pdb
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.AssemblyReference.cache
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.SuggestedBindingRedirects.cache
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.MyBuffetName.resources
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.Properties.Resources.resources
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.GenerateResource.cache
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.CoreCompileInputs.cache
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.exe
+D:\A290_NET\MyBuffetProject\MyBuffetProject\obj\Debug\MyBuffetProject.pdb
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\bin\Debug\MyBuffetProject.exe.config
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\bin\Debug\MyBuffetProject.exe
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\bin\Debug\MyBuffetProject.pdb
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.AssemblyReference.cache
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.SuggestedBindingRedirects.cache
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.FrmBuffetOptions.resources
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.MyBuffetName.resources
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.Properties.Resources.resources
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.GenerateResource.cache
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.csproj.CoreCompileInputs.cache
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.exe
+D:\A290_NET\MyBuffetProject - Version 2\MyBuffetProject\obj\Debug\MyBuffetProject.pdb

@@ -1,0 +1,11 @@
+D:\A290_NET\PostFixCalculator\PostFixCalculator\bin\Debug\PostFixCalculator.exe.config
+D:\A290_NET\PostFixCalculator\PostFixCalculator\bin\Debug\PostFixCalculator.exe
+D:\A290_NET\PostFixCalculator\PostFixCalculator\bin\Debug\PostFixCalculator.pdb
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.csproj.AssemblyReference.cache
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.csproj.SuggestedBindingRedirects.cache
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.FrmPostFixCalculator.resources
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.Properties.Resources.resources
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.csproj.GenerateResource.cache
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.csproj.CoreCompileInputs.cache
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.exe
+D:\A290_NET\PostFixCalculator\PostFixCalculator\obj\Debug\PostFixCalculator.pdb

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274325671354",
+    "project_id": "selfie-a-day-418f1",
+    "storage_bucket": "selfie-a-day-418f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274325671354:android:c1f845ebc6b60d2b35a183",
+        "android_client_info": {
+          "package_name": "com.example.selfieaday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274325671354-90ck2ehocdpgp37s0qh556cdud56nugi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudRHbAUrvvwecaqiA1FJ9606UKdXcZCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274325671354-90ck2ehocdpgp37s0qh556cdud56nugi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
