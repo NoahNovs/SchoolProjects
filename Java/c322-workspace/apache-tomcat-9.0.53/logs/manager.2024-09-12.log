@@ -1,0 +1,2 @@
+12-Sep-2024 12:17:27.852 INFO [http-nio-45854-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+12-Sep-2024 12:47:54.867 INFO [http-nio-45854-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

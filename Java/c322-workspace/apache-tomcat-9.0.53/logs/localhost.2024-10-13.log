@@ -1,0 +1,6 @@
+13-Oct-2024 00:09:33.644 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionDestroyed('614CCCC55309982A59FAFE972F7F58D4')
+13-Oct-2024 00:09:33.644 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeRemoved('614CCCC55309982A59FAFE972F7F58D4', 'numguess', 'num.NumberGuessBean@62e05d25')
+13-Oct-2024 02:21:15.417 INFO [http-nio-45854-exec-2] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionCreated('12548E7F17AE5210104279F8802FDFFF')
+13-Oct-2024 02:21:15.417 INFO [http-nio-45854-exec-2] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeAdded('12548E7F17AE5210104279F8802FDFFF', 'table', 'cal.TableBean@7ec71db8')
+13-Oct-2024 02:51:41.733 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionDestroyed('12548E7F17AE5210104279F8802FDFFF')
+13-Oct-2024 02:51:41.733 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeRemoved('12548E7F17AE5210104279F8802FDFFF', 'table', 'cal.TableBean@7ec71db8')

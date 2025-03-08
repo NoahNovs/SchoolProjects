@@ -1,0 +1,3 @@
+26-Sep-2024 12:06:52.464 INFO [http-nio-45854-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+26-Sep-2024 12:06:56.542 INFO [http-nio-45854-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: restart: Reloading web application '/qotd'
+26-Sep-2024 12:06:56.576 INFO [http-nio-45854-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

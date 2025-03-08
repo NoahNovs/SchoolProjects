@@ -1,0 +1,4 @@
+17-Nov-2024 00:50:58.392 INFO [http-nio-45854-exec-5] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionCreated('75B5A86C83E3033F65C9F40B9646D335')
+17-Nov-2024 00:50:58.392 INFO [http-nio-45854-exec-5] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeAdded('75B5A86C83E3033F65C9F40B9646D335', 'table', 'cal.TableBean@4975f181')
+17-Nov-2024 01:21:48.126 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionDestroyed('75B5A86C83E3033F65C9F40B9646D335')
+17-Nov-2024 01:21:48.126 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeRemoved('75B5A86C83E3033F65C9F40B9646D335', 'table', 'cal.TableBean@4975f181')

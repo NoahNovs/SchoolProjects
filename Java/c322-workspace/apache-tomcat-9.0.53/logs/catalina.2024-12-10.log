@@ -1,0 +1,22 @@
+10-Dec-2024 22:58:58.431 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-45854"]
+10-Dec-2024 22:58:58.449 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [338] milliseconds
+10-Dec-2024 22:58:58.456 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2024 22:58:58.456 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+10-Dec-2024 22:58:58.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/ROOT]
+10-Dec-2024 22:58:58.629 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/ROOT] has finished in [156] ms
+10-Dec-2024 22:58:58.629 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/docs]
+10-Dec-2024 22:58:58.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/docs] has finished in [18] ms
+10-Dec-2024 22:58:58.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/examples]
+10-Dec-2024 22:58:58.920 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/examples] has finished in [273] ms
+10-Dec-2024 22:58:58.920 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/host-manager]
+10-Dec-2024 22:58:58.942 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/host-manager] has finished in [22] ms
+10-Dec-2024 22:58:58.942 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/manager]
+10-Dec-2024 22:58:58.961 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/manager] has finished in [19] ms
+10-Dec-2024 22:58:58.962 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/squash]
+10-Dec-2024 22:58:58.988 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/squash] has finished in [26] ms
+10-Dec-2024 22:58:58.988 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/stage02]
+10-Dec-2024 22:58:59.012 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/stage02] has finished in [24] ms
+10-Dec-2024 22:58:59.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/qotd]
+10-Dec-2024 22:58:59.048 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/nfs/nfs9/home/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/webapps/qotd] has finished in [35] ms
+10-Dec-2024 22:58:59.052 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-45854"]
+10-Dec-2024 22:58:59.058 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [608] milliseconds

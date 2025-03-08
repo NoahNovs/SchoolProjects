@@ -1,0 +1,44 @@
+
+Running [1] general tests... DONE
+Running [1] initialization tests... DONE
+Running [3] enqueue tests... DONE
+Running [6] dequeue tests... DONE
+Running [6] order tests... DONE
+Running [3] resched tests... DONE
+
+----------------------------
+
+General Tests:
+  Program Compiles:             OK
+
+Queue Tests:
+  Initialization Tests:
+    List initialization:        OK
+
+  Enqueue Tests:
+    List integrity [1-thread]:  OK
+    List integrity [2-threads]: OK
+    List integrity [3-threads]: OK
+
+  Dequeue Tests:
+    First pop:                  OK
+    First return:               OK
+    Second pop:                 OK
+    Second return:              OK
+    Third pop:                  OK
+    Third return:               OK
+
+  Out of Order Tests:
+    Enqueue first:              OK
+    Enqueue second:             OK
+    Enqueue third:              OK
+    Dequeue first:              OK
+    Dequeue second:             OK
+    Dequeue third:              OK
+
+
+Scheduling Tests:
+  Enqueue on resume:            OK
+  Dequeue on suspend:           OK
+  Resched dequeues/enqueues:    OK
+

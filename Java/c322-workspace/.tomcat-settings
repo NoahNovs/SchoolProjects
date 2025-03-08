@@ -1,0 +1,8 @@
+JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/
+export JAVA_HOME
+
+CATALINA_HOME=/nobackup/nnovales/c322-workspace/apache-tomcat-9.0.53/
+export CATALINA_HOME
+
+CLASSPATH=.:$CATALINA_HOME/lib/servlet-api.jar
+export CLASSPATH

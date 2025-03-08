@@ -1,0 +1,8 @@
+29-Sep-2024 09:59:49.487 INFO [http-nio-45854-exec-6] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionCreated('D6539E71ED39E7CF26BAC9FB970ADA58')
+29-Sep-2024 09:59:49.487 INFO [http-nio-45854-exec-6] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeAdded('D6539E71ED39E7CF26BAC9FB970ADA58', 'numguess', 'num.NumberGuessBean@6fc0af14')
+29-Sep-2024 10:30:49.369 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionDestroyed('D6539E71ED39E7CF26BAC9FB970ADA58')
+29-Sep-2024 10:30:49.369 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeRemoved('D6539E71ED39E7CF26BAC9FB970ADA58', 'numguess', 'num.NumberGuessBean@6fc0af14')
+29-Sep-2024 12:13:55.837 INFO [http-nio-45854-exec-5] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionCreated('26E8539D315D6529FF40A33CA1DB2D15')
+29-Sep-2024 12:13:55.837 INFO [http-nio-45854-exec-5] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeAdded('26E8539D315D6529FF40A33CA1DB2D15', 'table', 'cal.TableBean@76c9f328')
+29-Sep-2024 12:44:55.800 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: sessionDestroyed('26E8539D315D6529FF40A33CA1DB2D15')
+29-Sep-2024 12:44:55.800 INFO [Catalina-utility-1] org.apache.catalina.core.ApplicationContext.log SessionListener: attributeRemoved('26E8539D315D6529FF40A33CA1DB2D15', 'table', 'cal.TableBean@76c9f328')
